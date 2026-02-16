@@ -8,4 +8,7 @@ if status is-interactive
 	if not set -q TMUX
 		exec tmux
 	end
+
+	# Disable fish greeting.
+	set -g fish_greeting ""
 end
