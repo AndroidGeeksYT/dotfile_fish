@@ -27,7 +27,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fish ~/.config/fish/
 ## Sample :
 
 <p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_fastfetch/blob/main/assets/sample.png">
+<img src="https://github.com/AndroidGeeksYT/dotfile_fish/blob/main/assets/sample.png">
 </p>
 
 ---
