@@ -38,7 +38,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fish ~/.config/fish/
 
 ---
 
-# 💸 Donate
+## 💸 Donate
 <p>
 <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
 </p>
