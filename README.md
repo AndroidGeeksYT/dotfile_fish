@@ -8,6 +8,12 @@
 
 ---
 
+<p>
+<img src="https://github.com/AndroidGeeksYT/dotfile_fish/blob/main/assets/sample.png">
+</p>
+
+---
+
 ## ⚙️ Requirements
 
 - `fish`
@@ -22,13 +28,5 @@
 # Clone this repo
 git clone https://github.com/AndroidGeeksYT/dotfile_fish ~/.config/fish/
 ```
-
----
-
-## Sample :
-
-<p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_fish/blob/main/assets/sample.png">
-</p>
 
 ---
