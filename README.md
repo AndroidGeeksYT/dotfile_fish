@@ -30,3 +30,16 @@ git clone https://github.com/AndroidGeeksYT/dotfile_fish ~/.config/fish/
 ```
 
 ---
+
+## 🎖️ Credits
+- TIDE: for ULTIMATE FISH prompt.
+- FISHER: a PLUGIN MANAGER for FISH.
+- Optimization: Performance tweaks for Termux inspired by the Android/Termux community.
+
+---
+
+# 💸 Donate
+<p>
+<img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
+</p>
+
