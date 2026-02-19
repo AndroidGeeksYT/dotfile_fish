@@ -6,7 +6,9 @@
 <img src="https://img.shields.io/github/issues/AndroidGeeksYT/dotfile_fish?color=cyan&style=for-the-badge">
 </p>
 
----
+<p align="center">
+<img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true" width="400" alt="Shiroko">
+</p>
 
 <p>
 <img src="https://github.com/AndroidGeeksYT/dotfile_fish/blob/main/assets/sample.png">
