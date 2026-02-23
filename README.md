@@ -21,10 +21,16 @@
 - `fish`
 - `tmux`
 - A Nerd Font (e.g., [Hack Nerd Font](https://www.nerdfonts.com/))
+
 ```bash
 pkg update && pkg upgrade -y
 pkg install fish tmux -y
 ```
+
+```bash
+curl -fLo ~/.termux/font.ttf https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/UbuntuMono/Regular/UbuntuMonoNerdFont-Regular.ttf
+```
+
 ---
 
 ## 🚀 Quick Start
@@ -38,6 +44,7 @@ chsh -s fish
 ---
 
 ## 🎖️ Credits
+
 - TIDE: for ULTIMATE FISH prompt.
 - FISHER: a PLUGIN MANAGER for FISH.
 - Optimization: Performance tweaks for Termux inspired by the Android/Termux community.
