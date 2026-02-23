@@ -20,11 +20,14 @@
 
 - `fish`
 - `tmux`
+- `git`
+- `fastfetch`
+- `lsd`
 - A Nerd Font (e.g., [Hack Nerd Font](https://www.nerdfonts.com/))
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install fish tmux -y
+pkg install fish tmux git fastfetch lsd -y
 ```
 
 ```bash
