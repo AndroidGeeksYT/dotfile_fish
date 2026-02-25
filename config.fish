@@ -6,9 +6,12 @@ if status is-interactive
 	
 	# Run tmux session.
 	if not set -q TMUX
-		exec tmux
+		exec tmux -f ~/.config/tmux/tmux.conf
 	end
 
 	# Disable fish greeting.
 	set -g fish_greeting ""
+
+    # CC clang
+    set -gx CC clang
 end
